@@ -1,5 +1,5 @@
 
-<h1 align="center">:computer: Shopora – Responsive E-commerce Website Template</h1>
+<h1 align="left">:computer: Shopora – Responsive E-commerce Website Template</h1>
 
 ![Website](https://img.shields.io/badge/Status-Responsive-brightgreen)
 ![Technology](https://img.shields.io/badge/Tech-HTML_CSS_JS-blue)
