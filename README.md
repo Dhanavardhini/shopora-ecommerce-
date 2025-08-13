@@ -1,18 +1,31 @@
 
-<h1 align="center">:computer:  Shopora – E-commerce Website Template</h1>
+<h1 align="center">:computer: Shopora – Responsive E-commerce Website Template</h1>
 
-**Shopora** is a clean and responsive e-commerce website template developed using **HTML, CSS, and JavaScript**. It provides a seamless user experience across all devices.
+![Website](https://img.shields.io/badge/Status-Responsive-brightgreen)
+![Technology](https://img.shields.io/badge/Tech-HTML_CSS_JS-blue)
+![License](https://img.shields.io/badge/License-Free-yellow)
 
----
-
-## About
-- Fully responsive design
-- Modern and clean UI
-- Easy to customize
-- Includes product pages, cart, and checkout UI (static, no backend)
+**Shopora** is a **clean, modern, and fully responsive** e-commerce website template developed using **HTML, CSS **. It provides a seamless shopping experience across all devices.
 
 ---
 
-## Folder Structure
+## 🌟 Features
+- ✅ Fully responsive design (mobile, tablet, desktop)  
+- ✅ Modern and clean user interface  
+- ✅ Easy to customize for any e-commerce brand  
+- ✅ Includes product pages, cart, and checkout UI (static, no backend)  
+- ✅ Optimized for performance and fast loading  
 
+---
+
+
+## 🚀 How to Use
+1. Download or clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/shopora.git
+Open index.html in any modern web browser.
+
+Customize HTML, CSS files to fit your brand.
+
+🌐 Live Demo
 <h2 align="center"><a href="https://shopora-ecommerce.netlify.app/">Click here</a></h2>
