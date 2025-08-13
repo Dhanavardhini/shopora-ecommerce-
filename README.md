@@ -28,4 +28,4 @@ Open index.html in any modern web browser.
 Customize HTML, CSS files to fit your brand.
 
 🌐 Live Demo
-<h2 align="center"><a href="https://shopora-ecommerce.netlify.app/">Click here</a></h2>
+<h2 align="left"><a href="https://shopora-ecommerce.netlify.app/">Click here</a></h2>
